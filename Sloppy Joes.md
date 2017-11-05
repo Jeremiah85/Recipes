@@ -14,3 +14,15 @@
 * 1 tsp Apple Cider Vinegar
 * 1 tsp Honey (Optional)
 * 1 tsp Bourbon (Optional)
+
+---
+
+## Instructions
+
+Cook `Ground Meat` in a skillet over Medium heat.
+Drain the fat and return the meat to skillet.
+Reduce heat to Low and add the `remaining ingredients`.
+Cook over low heat for 10 minutes.
+Use immediately or freeze and reheat when needed.
+
+---
