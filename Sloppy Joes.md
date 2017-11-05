@@ -37,3 +37,15 @@ Generally I don't bother measuring anything and I just taste after each
 ingredient is added.
 
 ---
+
+## Variations
+
+* 1 lb Sloppy Joes
+* 1 10 ct. Can of Refrigerated Biscuits
+* 1/2 cup Shredded Cheese (I have used Chedder, Pepper Jack, Muenster, and Swiss)
+
+Preheat oven to temperature on the Can of Biscuits.
+Seperate `Can of Biscuits` into 10 biscuits.
+Flatten each biscuit and line a muffin tin cup with it.
+Divide `Sloppy Joes` between cups and top each one with `Cheese`.
+Bake for the time listed on the Can of Biscuits.
