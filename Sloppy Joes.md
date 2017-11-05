@@ -26,3 +26,14 @@ Cook over low heat for 10 minutes.
 Use immediately or freeze and reheat when needed.
 
 ---
+
+## Notes
+
+This is a really flexable recipe and the ingredients are based more
+on what I have in my pantry than anything else.
+The recipe I started with just had the meat, ketchup, mustard,
+and worcestershire sauce; everything else has been added as I go along.
+Generally I don't bother measuring anything and I just taste after each
+ingredient is added.
+
+---
