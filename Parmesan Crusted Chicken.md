@@ -36,3 +36,7 @@ Cover each `Chicken Breast` completely in the panko mixture,
 pressing it on to make sure the panko adheres.
 Place `Chicken Breasts` onto the baking sheet and bake until the
 internal temperature is 165°F, generally 15 - 20 minutes.
+
+---
+
+Version 1.0.0
