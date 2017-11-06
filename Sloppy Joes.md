@@ -49,3 +49,7 @@ Seperate `Can of Biscuits` into 10 biscuits.
 Flatten each biscuit and line a muffin tin cup with it.
 Divide `Sloppy Joes` between cups and top each one with `Cheese`.
 Bake for the time listed on the Can of Biscuits.
+
+---
+
+Version 1.0.0
