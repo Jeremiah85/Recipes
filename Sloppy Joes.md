@@ -29,7 +29,7 @@ Use immediately or freeze and reheat when needed.
 
 ## Notes
 
-This is a really flexable recipe and the ingredients are based more
+This is a really flexible recipe and the ingredients are based more
 on what I have in my pantry than anything else.
 The recipe I started with just had the meat, ketchup, mustard,
 and worcestershire sauce; everything else has been added as I go along.
@@ -45,7 +45,7 @@ ingredient is added.
 * 1/2 cup Shredded Cheese (I have used Chedder, Pepper Jack, Muenster, and Swiss)
 
 Preheat oven to temperature on the Can of Biscuits.
-Seperate `Can of Biscuits` into 10 biscuits.
+Separate `Can of Biscuits` into 10 biscuits.
 Flatten each biscuit and line a muffin tin cup with it.
 Divide `Sloppy Joes` between cups and top each one with `Cheese`.
 Bake for the time listed on the Can of Biscuits.
