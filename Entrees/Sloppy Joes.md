@@ -46,11 +46,7 @@ ingredient is added.
 * 1/2 cup Shredded Cheese (I have used Chedder, Pepper Jack, Muenster, and Swiss)
 
 Preheat oven to temperature on the Can of Biscuits.
-<<<<<<< HEAD:Sloppy Joes.md
-Separate `Can of Biscuits` into 10 biscuits.
-=======
 Separate the `Can of Biscuits` into 10 biscuits.
->>>>>>> Sloppy_Joes:Entrees/Sloppy Joes.md
 Flatten each biscuit and line a muffin tin cup with it.
 Divide `Sloppy Joes` between cups and top each one with `Cheese`.
 Bake for the time listed on the Can of Biscuits.
