@@ -10,10 +10,11 @@
 * 1 tbs Yellow Mustard
 * 1 tsp Whole Grain Mustard
 * 1 tbs Worcestershire Sauce
-* 1 tsp Balsamic Glaze
+* 1 tsp Balsamic Glaze (Or Balsamic Vinegar)
 * 1 tsp Apple Cider Vinegar
 * 1 tsp Honey (Optional)
 * 1 tsp Bourbon (Optional)
+* Liquid Smoke (To Taste)
 
 ---
 
@@ -52,4 +53,4 @@ Bake for the time listed on the Can of Biscuits.
 
 ---
 
-Version 1.0.1
+Version 1.1.1
